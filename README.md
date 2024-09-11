@@ -5,5 +5,5 @@ Just a programmer in PUP Manila
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,npm,mongodb,java,c,cs,py,linux,redhat,vscode,unreal,git,github&theme=dark)](https://skillicons.dev)<br>
 
 # 📧CONNECT WITH ME
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev) [Linkedin](https://www.linkedin.com/in/carl-dione-abargos-3a8792296/)<br>
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev) [](https://www.linkedin.com/in/carl-dione-abargos-3a8792296/)<br>
 
