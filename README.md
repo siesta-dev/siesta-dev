@@ -1,9 +1,13 @@
 Just a programmer in PUP Manila
 
 
-# 💻TECH STACKS
+<h3 align="center">💻TECH STACKS</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,npm,mongodb,java,c,cs,py,linux,redhat,vscode,unreal,git,github&theme=dark)](https://skillicons.dev)<br>
 
-# 📧CONNECT WITH ME
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/carl-dione-abargos-3a8792296/)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
