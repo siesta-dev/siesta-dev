@@ -1,10 +1,10 @@
-Just a programmer in PUP Manila
-
+<h1 align="center">Hi! I'm Carl Dione</h1>
+<h1 align="center">Just a programmer at PUP Manila</h1>
 
 <h3 align="center">💻TECH STACKS</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,npm,mongodb,java,c,cs,py,linux,redhat,vscode,unreal,git,github&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,npm,mongodb,java,c,cs,py,linux,redhat,vscode,unreal,git,github&theme=dark" />
   </a>
 </p>
 
