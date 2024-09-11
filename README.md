@@ -21,4 +21,4 @@
 </p>
 
 <br>
-<h1 align="center">**M O R C**</h1>
+<h1 align="center">M O R C</h1>
