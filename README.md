@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Carl Dione</h1>
-<h1 align="center">Just a programmer at PUP Manila</h1>
+<h2 align="center">Just a programmer at PUP Manila</h2>
 
 <h3 align="center">💻TECH STACKS</h3>
 <p align="center">
