@@ -15,7 +15,6 @@ Just a programmer in PUP Manila
   <a href="https://www.linkedin.com/in/carl-dione-abargos-3a8792296/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <br>
   <a href=" https://github.com/siesta-dev">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
