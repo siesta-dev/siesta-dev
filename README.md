@@ -4,7 +4,7 @@ Just a programmer in PUP Manila
 <h3 align="center">💻TECH STACKS</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,npm,mongodb,java,c,cs,py,linux,redhat,vscode,unreal,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,npm,mongodb,java,c,cs,py,linux,redhat,vscode,unreal,git,github&theme=dark&perline=4" />
   </a>
 </p>
 
