@@ -1,6 +1,7 @@
 <h1 align="center">Hi! I'm Carl Dione</h1>
 <h2 align="center">Just a programmer at PUP Manila</h2>
 
+<p>introduction about my self balh blah</p>
 <h3 align="center">💻TECH STACKS</h3>
 <p align="center">
   <a href="https://skillicons.dev">
