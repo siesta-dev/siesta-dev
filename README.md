@@ -5,7 +5,7 @@
 <h3 align="center">💻TECH STACKS</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,npm,mongodb,java,c,cs,py,linux,redhat,vscode,unreal,git,github&theme=dark&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,npm,mongodb,java,c,cs,py,linux,redhat,vscode,unreal,git,github,java,express,django,&theme=dark&perline=14" />
   </a>
 </p>
 
